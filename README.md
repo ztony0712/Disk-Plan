@@ -5,6 +5,7 @@ ResearchGate: [Open Source Paper](https://www.researchgate.net/publication/36015
 
 IEEE: [ICET 2024](https://ieeexplore.ieee.org/document/9824583)
 
+## Introduction
 In our project, this is only a small part of code -- Disk Plan, which is a simple demo of BCI robot controller GUI.
 * Run test.py by python3
 * Install pyqt5 before running
