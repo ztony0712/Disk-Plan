@@ -13,11 +13,11 @@ In our project, this is only a small part of code -- Disk Plan, which is a simpl
 Our paper has been published on IEEE 5th International Conference on Electronics Technology (ICET) 2022. Remenber to cite the paper if you find this work useful.
 
 ``` bibtex
-@inproceedings{Haohong2022,
+@inproceedings{Wang2022Rolling,
   title = {The Mind Commands You: Combining Brain-Computer Interactions with Augmented Reality to Control Internet of Things (IoT) Tools, and Robotic Platforms},
   shorttitle = {The Mind Commands You},
-  booktitle = {2022 IEEE 5th International Conference on Electronics Technology (ICET)},
-  author = {Haohong, Wang and Shenghao, Gao and Yimin, Zhao and Maojia, Song and Heng, Wang and Rompapas, Damien Constantine},
+  booktitle = {IEEE 5th International Conference on Electronics Technology (ICET)},
+  author = {Wang, Haohong and Gao, Shenghao and Zhao, Yimin and Song, Maojia and Wang, Heng and Rompapas, Damien Constantine},
   year = {2022},
   month = may,
   pages = {1026--1031},
